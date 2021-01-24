@@ -16,7 +16,8 @@ body, html {
   top: 40%;
   left : 42%;
   border-radius: 47%;
-  border: 5px solid white;
+  border: 15px solid white;
+  border-style: dashed;
 }
 
 .titulopp {
